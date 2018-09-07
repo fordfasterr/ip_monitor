@@ -10,4 +10,4 @@ It only works on linux variants.
 It takes 2 arguments, the ip or hostname, and the e-mail adddress.
 
 It also relies on the os mailx utility from mailutils package.
-# usage: ./pingit <ip or hostname> <e-mail address>
+# usage: ./pingit \<ip or hostname> \<e-mail address>
